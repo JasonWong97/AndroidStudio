@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorMyBlue">#0011EE</color>
+    <color name="colorMyTextView">#FF7F50</color>
+    <color name="colorMyRadioButton">#FFC125</color>
+</resources>
